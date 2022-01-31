@@ -1,9 +1,12 @@
 # Source Core Review - CrossWise Router contract
 
+</br> </br>
 
 <p align="center">
   <img src=".\_images\router-extension-model.PNG" width="1280" title="hover text">
 </p>
+
+</br>
 
 Note: CrossWise router is essentially the Pancakeswap router contract extended with hooks for checking swap amount and price. \
 As the router contract extends the proven Pancakeswap router contracts, we focus on the extension.
@@ -22,6 +25,7 @@ The admin and priceConsumer is set when the contract is deployed.
   - the admin has the privilege to setWhilelistToken(.)
   - The priceConsumer contract is used to getLatestPrice(), maybe from the off-chain side.
 
+</br>
 
 ## 0. General
 
@@ -38,6 +42,8 @@ The admin and priceConsumer is set when the contract is deployed.
     - Routing the requests of addLiquidity, swap, and their variations, to proper pairs
     - controlling token input amounts to pairs
 
+</br>
+
 ### 0.2 The position that the CrossWise router takes
 The CrossWise router extended the conventional router with the following functions:
 - setWhitelistToken
@@ -45,8 +51,10 @@ The CrossWise router extended the conventional router with the following functio
 - setMaxSpreadTolerance
 - setAntiWhale
 
-These functions belong to the category of input data to pairs, conforming to the architecture. CrossWise router keep the same position as Pancakeswap router takes. Architecture has by and large no problem.
+These functions belong to the category of input data to pairs, conforming to the architecture. \
+The CrossWise router keep the same position as Pancakeswap router takes. The architecture has by and large no problem.
 
+</br>
 
 ## 1. Finance
 
@@ -56,6 +64,8 @@ These functions belong to the category of input data to pairs, conforming to the
   We should be able to use that indicator in a smart way to overcome price manipulations coming from attackers.
   See https://uniswap.org/whitepaper.pdf about the price oracle implemented in Uniswap v2, which is the same as of Pancake v2.
   Mathematical formulation is required.
+
+</br>
 
 ### 1.2 setwhitelistToken(.) function
 - Logic: The admin can whitelist a token. Only whitelisted tokens can attend to a pair.
@@ -73,6 +83,7 @@ These functions belong to the category of input data to pairs, conforming to the
   ```
 - Solution: Remove the pirceGuardPaused map. maxSpreadTolerance == 0/infinity can replace it.
 
+</br>
 
 ### 1.4 The antiWhale check
 - Logic: ...
@@ -99,6 +110,7 @@ These functions belong to the category of input data to pairs, conforming to the
 - **Comment**: The variable 'amountIn' should be updated as the swap traverses over the path of pairs.
 - **Solution**: (Sketch) Place the antiWhale check in the function _swap(.), where the 'amountId' is updated along the path.
 
+</br>
 
 ### 1.5 verifyPrice(.) function, pairPrice
 - Logic: ...
@@ -114,6 +126,8 @@ These functions belong to the category of input data to pairs, conforming to the
   ```
 - **Error**: _amountIn and _amountOut were used as if they were for all the intermediary pairs on the path.
 - Solution: I would better to modify the _swap(.) function, which enumerates all the intermediary pairs and the amountIn and amountOut values of those pairs.
+
+</br>
 
 ### 1.6 verifyPrice(.) function, price comparison with the oracle price.
 - Logic: ... 
@@ -131,8 +145,11 @@ These functions belong to the category of input data to pairs, conforming to the
   Let logTolerance be 0.1, for example. This is actually a logarithmic neighborhood of the oraclePrice.
   It will be developed further later.
 
+</br> </br>
 
 ## 2. Security
+
+</br>
 
 ### 2.1 **transfer-wise security vs. transaction-wise security**
 
@@ -142,10 +159,12 @@ These functions belong to the category of input data to pairs, conforming to the
   - Start measuring accumulated transfer amount and price change when a new transaction begins.
   - Check the accumulated quantities on every transfer or swap or removeLiquidity.
 
-### 2.2 transfer-wise security vs. transaction-wise security
 
+</br> </br>
 
 ## 3. Programming
+
+</br>
 
 ### 3.1 _addLiquidity(.) function
 - Logic: All the same as the Pancakeswap router, but a line added:
@@ -174,6 +193,7 @@ These functions belong to the category of input data to pairs, conforming to the
         (amountA, amountB) = (amountADesired, amountBDesired);
     } 
 
+</br>
 
 ### 3.2 getPrice(.) function
 - Logic: 
@@ -213,4 +233,3 @@ These functions belong to the category of input data to pairs, conforming to the
         return (amountIn.mul(10 ** decimalsOut)).mul(10 ** 8) / (amountOut * (10 ** decimalsIn));
     }
   ```
-  
