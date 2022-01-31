@@ -124,7 +124,7 @@ The CrossWise router keep the same position as Pancakeswap router takes. The arc
       }
     }
   ```
-- **Error**: _amountIn and _amountOut were used as if they were for all the intermediary pairs on the path.
+- **Error**: _amountIn and _amountOut were used as if they were for all the intermediary pairs on the path, while they are only for the first and the last pair, respectively.
 - Solution: I would better to modify the _swap(.) function, which enumerates all the intermediary pairs and the amountIn and amountOut values of those pairs.
 
 </br>
