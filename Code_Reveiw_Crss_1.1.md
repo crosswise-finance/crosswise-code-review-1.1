@@ -170,43 +170,26 @@ This function has NO financial errors, unlike transferFrom(.).
 ### 1.7 Discussion
 
 #### 1.7.1 Tokenomics research
-  Throughout the industry, it still remains a wish to choose the best optimal combination of parameters of the operations: 
-  collecting fees, liquifying, farming, lending, voting power, minting, and burning, and total/max supply.
-  For the coming launch, we many need to keep it open for the next version to implement dynamic control of the parameters.
+  Throughout the industry, it still remains a wish to choose the best optimal combination of parameters of the operations: collecting fees, liquifying, farming, lending, voting power, minting, and burning, and total/max supply. For the coming launch, we many need to keep it open for the next version to implement dynamic control of the parameters.
   Tokenomics research of one or two week may help much.
 
 #### 1.7.2 Is transfer call the only chance to collect fees from holders?
-  We should be able to collect fees from not only senders/recipients, but also from those who keep silent and hodle.
-  Often, silent users benefit more from the deflation of crss.
-  It would be better if you have the list of users and can enumerate each user to collect fees from them.
-  Enumerating and iterating over all users is limited due to the block gas limit, if the number of users is large.
+  We should be able to collect fees from not only senders/recipients, but also from those who keep silent and hodle. Often, silent users benefit more from the deflation of crss.
+  It would be better if you have the list of users and can enumerate each user to collect fees from them. Enumerating and iterating over all users is limited due to the block gas limit, if the number of users is large.
   Note: MasterChef enumerates all users. See the code review report.
 
 #### 1.7.3 **The Jan.18 attack and the setMaxTransferAmountRate(.) function**
-  The Jan.18 attack has divided a selling of 70,673 crss tokens on the crss/busd pool into 12 smaller, serial sells 
-  in the same transaction, each selling 5,889.4 crss tokens. 12 transfers from the 0x530... account to the crss/busd pool 
-  took place in series. The MasTransferAmountRate check is supposed to do, though, on each transfers independently, 
-  without relating to other transfers in the same transaction or even in recent transactions.
-  We need to limit the whole amount that is withdrawn from the pools by the all transfers in the same transaction, 
-  rather than limiting the transfer amount of each transfer.
+  The Jan.18 attack has divided a selling of 70,673 crss tokens on the crss/busd pool into 12 smaller, serial sells in the same transaction, each selling 5,889.4 crss tokens. 12 transfers from the 0x530... account to the crss/busd pool took place in series. The MasTransferAmountRate check is supposed to do, though, on each transfers independently, without relating to other transfers in the same transaction or even in recent transactions.
+  We need to limit the whole amount that is withdrawn from the pools by the all transfers in the same transaction, rather than limiting the transfer amount of each transfer.
   Further we may need to limit the whole withdrawal amount from pools to the same or related accounts across recent transactions.
 
 
 #### 1.7.4 Sell/Buy fees
-  The reason of imposing fees to transfer events, is not natural, but the industry had to choose it due to the lack of 
-  flexibility of block chain, in my opinion. 
-  According to EVM machine, which is the core virtual computer of Ethereum, BSC, and other EVM block chains, 
-  it is difficult to enumerate all accounts that have balance on the contract. They have no way but to access to 
-  individual accounts whenever they show up. They only show up via transfer(senderAccount, recipientAccount, amount) 
-  function calls. Other show up, like balanceOf(account) function, is almost useless, because they are view only and 
-  can NOT leave the compute result to the block chain.
-  Imposing fees on a transfer event, means imposing fees to both the sender and recipient. It's transfer fee, and 
-  NOT sell fee or buy fee. Subtracting a fee from the transfer amount that leaves the sender's account, before adding 
-  the recipient's account an amount of (amount - fee), is neither sell fee nor buy fee, but a combination of them.
-  It would be better if we can separate sell fees and buy fees.
-  Generally, a transfer(sender, recipient, amount) event does NOT know if it's the seller sending or the recipient 
-  buying. But if the transfer is called by our router, then we know if it's a sell or a buy.
-  (I have researched this in my previous jobs, and created some techniques.)
+  The reason of imposing fees to transfer events, is not natural, but the industry had to choose it due to the lack of flexibility of block chain, in my opinion. 
+  According to EVM machine, which is the core virtual computer of Ethereum, BSC, and other EVM block chains, it is difficult to enumerate all accounts that have balance on the contract. They have no way but to access to individual accounts whenever they show up. They only show up via transfer(senderAccount, recipientAccount, amount) function calls. Other show up, like balanceOf(account) function, is almost useless, because they are view only and can NOT leave the compute result to the block chain.
+  Imposing fees on a transfer event, means imposing fees to both the sender and recipient. It's transfer fee, and NOT sell fee or buy fee. Subtracting a fee from the transfer amount that leaves the sender's account, before adding the recipient's account an amount of (amount - fee), is neither sell fee nor buy fee, but a combination of them.
+  It would be better if we can separate sell fees and buy fees. Generally, a transfer(sender, recipient, amount) event does NOT know if it's the seller sending or the recipient 
+  buying. But if the transfer is called by our router, then we know if it's a sell or a buy. (I have researched this in my previous jobs, and created some techniques.)
 
 </br></br>
 
