@@ -108,7 +108,7 @@ The CrossWise router keep the same position as Pancakeswap router takes. The arc
     }
   ```
 - **Comment**: The variable 'amountIn' should be updated as the swap traverses over the path of pairs.
-- **Solution**: (Sketch) Place the antiWhale check in the function _swap(.), where the 'amountId' is updated along the path.
+- **Solution**: (Sketch) Place the antiWhale check in the function _swap(.) or _swapSupportingFeeOnTransferTokens(.), where the 'amountId' is updated along the path.
 
 </br>
 
@@ -125,7 +125,7 @@ The CrossWise router keep the same position as Pancakeswap router takes. The arc
     }
   ```
 - **Error**: _amountIn and _amountOut were used as if they were for all the intermediary pairs on the path, while they are only for the first and the last pair, respectively.
-- Solution: It would better to modify the _swap(.) function, which enumerates all the intermediary pairs and the amountIn and amountOut values of those pairs.
+- Solution: It would better to modify the _swap(.) or _swapSupportingFeeOnTransferTokens(.) function, which enumerates all the intermediary pairs and the amountIn and amountOut values of those pairs.
 
 </br>
 
