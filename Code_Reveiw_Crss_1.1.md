@@ -43,7 +43,7 @@ From the contract's transferFrom(.) code, we can  is interpreted as follows:
         **LiquidityFee is paid** if only the sender is not the crss/bon pool.
         - This **effectively exempt, from paying liquidity fee, the transfer of buying crss and removing liquidity.**
         - **comment**: user-pool will not happen. nonPoolContract-pool should be either selling crss or adding tokens to the crsss/bnb pool.
-        - **issue**: Should adding liquidity pay a fee?
+        - **issue**: Should adding liquidity pay a fee? \
     End IF
     
 
@@ -152,7 +152,7 @@ This function has NO financial errors, unlike transferFrom(.).
 
 ### 1.7 Discussion
 
-#### 1.7.1 How was the tokenomics calculated?
+#### 1.7.1 Tokenomics research
   Throughout the industry, it still remains a wish to choose the best optimal combination of parameters of the operations: 
   collecting fees, liquifying, farming, lending, voting power, minting, and burning, and total/max supply.
   For the coming launch, we many need to keep it open for the next version to implement dynamic control of the parameters.
