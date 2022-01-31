@@ -28,8 +28,7 @@ The CrossWise router extended the conventional router with the following functio
 - setMaxSpreadTolerance
 - setAntiWhale
 
-These functions belong to the category of input data to pairs, conforming to the architecture.
-So, architecture has by and large no problem.
+These functions belong to the category of input data to pairs, conforming to the architecture. CrossWise router keep the same position as Pancakeswap router takes. Architecture has by and large no problem.
 
 
 ## 1. Finance
@@ -43,9 +42,17 @@ So, architecture has by and large no problem.
 - Logic: The admin can whitelist a token. Only whitelisted tokens can attend to a pair.
 - Comment: Do we need this regulation?
 
-### 1.3 pausePriceGuard(.) function
+### 1.3 pausePriceGuard(pair) map
 - Logic: The creator of a pair can pause or resume the price guard on the pair.
-- Comment: This could, alternatively, be implemented by the price tolerance.
+- Comment: This could, alternatively, be implemented by the price tolerance. Because of this redundancy, the verifyPrice(.) function has un unpleasant revert:
+  ```math
+    if (!priceGuardPaused[address(pair)]) {
+        require(
+            maxSpreadTolerance[address(pair)] > 0,
+            "max spread tolerance not initialized"
+        );
+  ```
+- Solution: Remove the pirceGuardPaused map. maxSpreadTolerance == 0/infinity can replace it.
 
 ### 1.4 setMaxSpreadTolerance(.) function
 - Logic: The creator of a pair can change the price tolerance of the pair.
@@ -61,7 +68,7 @@ So, architecture has by and large no problem.
 
 ### 1.7 The antiWhale check
 - Logic: ...
-- **Issue**: There is a **terrible error** in this code. The coder does **NOT** understand how to use a pair contract.
+- **Issue**: There is an **error** in this code. The coder does **NOT** understand how to use a pair contract.
   The code fragment comes below:
   ```math
     function antiWhale(address[] memory path, uint amountIn) internal view {
@@ -78,18 +85,24 @@ So, architecture has by and large no problem.
                     (reserve1, reserve0);
                 uint maxTransferAmount = (reserve0 * maxTransferAmountRate) / maxShare;
                 require(amountIn <= maxTransferAmount, "CrssRouter.antiWhale: Transfer amount exceeds the maxTransferAmount");
-                // The coder thought 'reserve0' was the input side of a pair
+                // The coder thought 'reserve0' was always the input side of its holding pair
                 // The coder thought 'amountIn' entered every pair on the path
+                // If something the same enters every pair, it's the percents and not the absolute amount.
             }
         }
     }
   ```
 
-- **Comment**: This error can be hidden only if the value scale of tokens are similar in a pair.
+- **Comment**: This error can be hidden if the value scale of tokens are similar to each other in a pair, or if users overlook it.
   eg: if the crss and busd have the similar price, then this error does not surface.
 
 ### 1.8 The verifyPrice check
 - Logic: ... 
+- **Issue**: There is an **error** in this code. The coder does **NOT** understand how to use a pair contract. The error is found in the
+  The code fragment comes below:
+  ```math
+
+  ```
 
 ## 2. Security
 

@@ -53,7 +53,7 @@ From the contract's transferFrom(.) code, we can  is interpreted as follows:
         - the same voting power is transferred, Sender -> Recipient
         - **No more fees, in addition to liquidity fee**
         - **comment**: user-pool will not happen. nonPoolContract-pool should be either selling or adding crss tokens to the crss/bnb pool. 
-        - **issue**: Shouldn't selling pay devFee and buybackFee?
+        - **issue**: Shouldn't a sell pay devFee and buybackFee?
         - CHECK: check if the sum of transfer amounts is equal to Amount. **Correct**
 
     - ELSE IF pool -> pool:
@@ -108,7 +108,7 @@ From the contract's transferFrom(.) code, we can  is interpreted as follows:
 
         - **comment**: pool-user is impossible. pool-nonPoolContract is either buying or removing crss from the crss/bnb pool.
         - **devFee and buybackFee are paid, with liquidity fee not paid**
-        - **issue**: Should buying pay a fee?
+        - **issue**: Should a buy pay a fee?
 
         - CHECK: check if the sum of transfer amounts is equal to Amount
             ```math
@@ -143,8 +143,8 @@ This function has NO financial errors, unlike transferFrom(.).
 - If the mint function is there, the burn function should also be there for symmetricity.
 - Shouldn't whitelisted users pay fees?
 - Should adding liquidity pay a fee?
-- Shouldn't selling pay devFee and buybackFee?
-- Should buying pay a fee?
+- Shouldn't a sell pay devFee and buybackFee?
+- Should a buy pay a fee?
 - 
 - **Error**: nonPool-nonPool transfers, which covers user-user transfers, 
     pay Amount x liquidityFeeRate x (devFeeRate + buybackFeeRate) less fees.
