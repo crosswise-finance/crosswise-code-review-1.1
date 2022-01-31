@@ -1,5 +1,6 @@
 # Source Core Review - CrossWise CRSS token contract
 
+</br> </br>
 
 The crss token:
 - is the central part of the CrossWise Dex
@@ -7,19 +8,26 @@ The crss token:
 - represents the total value and health of the CrossWise Dex
 - is the medium that enables the interaction between the CrossWorld Dex and the remaining world
 
+</br>
+
 The use cases and functional structure of the contract is shown in the following figure:
 
 <p align="center">
   <img src=".\_images\crss11-financial-model.PNG" width="1280" title="hover text">
 </p>
 
+</br></br>
+
 ## 1. Finance
+
+</br>
 
 ### 1.1 Functionalities
 
 - **issue**: What's the use of the mint(.) function?
 - **issue**: If the mint function is there, the burn function should also be there for symmetricity.
 
+</br>
 
 ### 1.2 transferFrom(Sender, Recipient, Amount), **defines** the movement of crss token
 
@@ -123,20 +131,27 @@ From the contract's transferFrom(.) code, we can  is interpreted as follows:
     End IF
 End IF
 
+</br>
 
 ### 1.3 transfer(Recipient, Amount)
 
 Note: this function is called by the crss/bnb pair when, among others, **an account buys or removes crss from the crss/bnb pair**.
 This function has NO financial errors, unlike transferFrom(.).
 
+</br>
+
 ### 1.4 swapAndLiquify() function
 - **issue** This function copies conventional code, which produces a significant residue of bnb in the crss contract.
 - See the Section 3.1.5 for more.
+
+</br>
 
 ### 1.5 swapAndLiquify() function
 - Problem: swapAndLiquify() is gas-expensive, yet called for every transfer that pays liquidity fee, however small the fee is.
 - This problem was already listed in the Certik's audit report.
 - Solution: collect liquidity fees to a given account until it accumulates over a given threshold, before liquifying.
+
+</br>
 
 ### 1.6 **Summary**:
 - What's the use of the mint(.) function?
@@ -149,6 +164,8 @@ This function has NO financial errors, unlike transferFrom(.).
 - **Error**: nonPool-nonPool transfers, which covers user-user transfers, 
     pay Amount x liquidityFeeRate x (devFeeRate + buybackFeeRate) less fees.
     This is a loss to the system, and may cause residue tokens in non-user accounts.
+
+</br>
 
 ### 1.7 Discussion
 
@@ -191,8 +208,11 @@ This function has NO financial errors, unlike transferFrom(.).
   buying. But if the transfer is called by our router, then we know if it's a sell or a buy.
   (I have researched this in my previous jobs, and created some techniques.)
 
+</br></br>
 
 ## 2. Security
+
+</br>
 
 ### 2.1 antiWhale check can not resist a transitive whaling
 - Logic: they stop transfers, only if both the sender and recipient are whales.
@@ -200,17 +220,25 @@ This function has NO financial errors, unlike transferFrom(.).
 - Solution: Stop transfers if any of the sender or recipient is a whale
 - Note: All accounts, except the crss contract and the burnAddress, are a whale initially.
 
+</br>
+
 ### 2.2 whitelist check can not resist a transitive black transfer
 - Logic: they stop transfers, only if both the sender and recipient are non-whitelisted.
 - Problem: A non-whilelisted can tarnsfer to a whitelisted, and the whitelisted can, in relay, transfer to another non-whitelisted.
 - Solution: Stop transfers if any of the sender or recipient is a non-whiltelisted.
+
+</br>
 
 ### 2.3 _mint(account, Amount) function
 - Logic: They mint an amount of (MaxSuppy - totalSupply), instead of Amount, if it will overflow the MaxSupply.
 - Problem: The caller will wrongfully think the full Amount was minted.
 - Solution: return how much was really minted.
 
+</br></br>
+
 ## 3. Programming
+
+</br>
 
 ### 3.1 Logic
 
@@ -257,6 +285,7 @@ This function has NO financial errors, unlike transferFrom(.).
 - Problem: This is redundant, as Transfer(zeroAddess, to, amount) is separately stored.
 - Solution: Remove.
 
+</br>
 
 ### 3.2 Maintainability
 
