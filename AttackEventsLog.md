@@ -1,0 +1,3998 @@
+Address
+0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Name
+SetTrustedForwarder (address _trustedForwarder)View Source
+
+Topics
+0 0x8c2bee8063bb4464870b7dfa415ebb2fe80bfa73ba20d6fbf0d42791274667ff
+Data
+_trustedForwarder :
+0x530b338261f8686e49403d1b5264e7a1e169f06b
+Address
+0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Name
+OwnershipTransferred (index_topic_1 address previousOwner, index_topic_2 address newOwner)View Source
+
+Topics
+0 0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0
+1  0x2a479056fac97b62806cc740b11774e6598b1649
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+0x
+Address
+0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Name
+SetTrustedForwarder (address _trustedForwarder)View Source
+
+Topics
+0 0x8c2bee8063bb4464870b7dfa415ebb2fe80bfa73ba20d6fbf0d42791274667ff
+Data
+_trustedForwarder :
+0x000000000000000000000000000000000000dead
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+10000000000000000
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+10000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+3714015207235354417
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+1486646735609068
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1114985051706801
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190812061860735758720634
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+0
+amount1In :
+10000000000000000
+amount0Out :
+3716616839022670286
+amount1Out :
+0
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Data
+value :
+999000000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+683111111111111111
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Mint (index_topic_1 address to, uint256 amount)View Source
+
+Topics
+0 0x0f6798a560793a54c3bcfe86a93cde1e73087d944c0ea20544137d4121396885
+1  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+amount :
+683111111111111111
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Data
+wad :
+7851851851851851851
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Mint (index_topic_1 address to, uint256 amount)View Source
+
+Topics
+0 0x0f6798a560793a54c3bcfe86a93cde1e73087d944c0ea20544137d4121396885
+1  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Data
+amount :
+7851851851851851851
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Data
+wad :
+1000000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+WhitelistedTransfer (index_topic_1 address from, index_topic_2 address to, uint256 total)View Source
+
+Topics
+0 0x6f14833cfdecbb9c32622fe48ec0af7fdd540090576d26e9dc6fc7e8383fc109
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Data
+total :
+1000000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Data
+value :
+998000000000000000000
+Address
+0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Name
+Deposit (index_topic_1 address user, index_topic_2 uint256 pid, uint256 amount)View Source
+
+Topics
+0 0x90890809c654f11d6e72a28fa60149770a0d11ec6c92319d6ceb2bb0a4ea1a15
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0
+Data
+amount :
+1000000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+692184641556429200780730
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+WhitelistedTransfer (index_topic_1 address from, index_topic_2 address to, uint256 total)View Source
+
+Topics
+0 0x6f14833cfdecbb9c32622fe48ec0af7fdd540090576d26e9dc6fc7e8383fc109
+1  0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+total :
+692184641556429200780730
+Address
+0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Name
+Withdraw (index_topic_1 address user, index_topic_2 uint256 pid, uint256 amount)View Source
+
+Topics
+0 0xf279e6a1f5e320cca91135676d9cb6e44ca8a08c0b88342bcdb1144f6511b568
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0
+Data
+amount :
+692184641556429200780730
+Address
+0x70873211cb64c1d4ec027ea63a399a7d07c4085b
+Name
+OwnershipTransferred (index_topic_1 address previousOwner, index_topic_2 address newOwner)View Source
+
+Topics
+0 0x8be0079c531659141344cd1fd0a4f28419497f9722a3daafe3b4186f6b6457e0
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+0x
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999999999000000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x10ed43c718714eb63d5aa57b78b54704e256024e
+Data
+value :
+999999999000000000000000000
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x10ed43c718714eb63d5aa57b78b54704e256024e
+Data
+value :
+999999999000000000000000000
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+884311012118927001
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+884311012118927001
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2369871471031970
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190812946171747877647635
+reserve1 :
+512383390087390621059
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+884311012118927001
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2369871471031970
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2369871471031970
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+884311012118927002
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+882546480202759824
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1764531916167178
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2369871471031970
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2369871471031970
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45354603081566195
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190813828718228080407459
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+882546480202759824
+amount1 :
+2369871471031970
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+884311012118927001
+ethReceived :
+2369871471031970
+tokensintoLiquidity :
+884311012118927002
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999994105429098658942344204
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+7065960047194080950828
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+126894116186826702185158
+reserve1 :
+145468334446237536849027
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+7065960047194080950828
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885183191436885878
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885183191436885878
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372186854291520
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190814713901419517293337
+reserve1 :
+512383387772007361509
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885183191436885878
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372186854291520
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372186854291520
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885183191436885878
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883416923196107387
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766268240778491
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372186854291520
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372186854291520
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45399125073032612
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190815597318342713400724
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883416923196107387
+amount1 :
+2372186854291520
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885183191436885878
+ethReceived :
+2372186854291520
+tokensintoLiquidity :
+885183191436885878
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999988211858197317884688408
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+6439728145719078589920
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+132783560350515525430271
+reserve1 :
+139028606300518458259107
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+6439728145719078589920
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184059599191534
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184059599191534
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372167193999869
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190816482502402312592258
+reserve1 :
+512383387791667653160
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184059599191534
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372167193999869
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372167193999869
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184059599191535
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417789592142859
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270007048676
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372167193999869
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372167193999869
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45398958993936526
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190817365920191904735117
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417789592142859
+amount1 :
+2372167193999869
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184059599191534
+ethReceived :
+2372167193999869
+tokensintoLiquidity :
+885184059599191535
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999982318287295976827032612
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+5893238054445378305056
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+138673004514204348675384
+reserve1 :
+133135368246073079954051
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+5893238054445378305056
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060482326627
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060482326627
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372145209898758
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190818251104252387061744
+reserve1 :
+512383387813651754271
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060482326627
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372145209898758
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372145209898758
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060482326627
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790435536221
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270046790406
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372145209898758
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372145209898758
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45398748436695767
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190819134522042822597965
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790435536221
+amount1 :
+2372145209898758
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060482326627
+ethReceived :
+2372145209898758
+tokensintoLiquidity :
+885184060482326627
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999976424716394635769376816
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+5413500553138828613722
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+144562448677893171920497
+reserve1 :
+127721867692934251340329
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+5413500553138828613722
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060502197492
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060502197492
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372123223891770
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190820019706103324795457
+reserve1 :
+512383387835637761259
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060502197492
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372123223891770
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372123223891770
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060502197492
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790417384543
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270084812949
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372123223891770
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372123223891770
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45398537838108977
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190820903123893742180000
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790417384543
+amount1 :
+2372123223891770
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060502197492
+ethReceived :
+2372123223891770
+tokensintoLiquidity :
+885184060502197492
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999970531145493294711721020
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+4990067920822840857798
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+150451892841581995165610
+reserve1 :
+122731799772111410482531
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+4990067920822840857798
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060521208763
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060521208763
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372101238290026
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190821788307954263388763
+reserve1 :
+512383387857623363003
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060521208763
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372101238290026
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372101238290026
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060521208764
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790398375615
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270122833149
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372101238290026
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372101238290026
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45398327242406948
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190822671725744661764378
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790398375615
+amount1 :
+2372101238290026
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060521208763
+ethReceived :
+2372101238290026
+tokensintoLiquidity :
+885184060521208764
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999964637574591953654065224
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+4614459647890274411005
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+156341337005270818410723
+reserve1 :
+118117340124221136071526
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+4614459647890274411005
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060540218863
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060540218863
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372079253095816
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190823556909805201983241
+reserve1 :
+512383387879608557213
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060540218863
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372079253095816
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372079253095816
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060540218864
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790379366483
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270160852381
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372079253095816
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372079253095816
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45398116649633658
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190824440327595581349724
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790379366483
+amount1 :
+2372079253095816
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060540218863
+ethReceived :
+2372079253095816
+tokensintoLiquidity :
+885184060540218864
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999958744003690612596409428
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+4279734055232076284995
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+162230781168959641655836
+reserve1 :
+113837606068989059786531
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+4279734055232076284995
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060559228479
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060559228479
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372057268309130
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190825325511656140578203
+reserve1 :
+512383387901593343899
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060559228479
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372057268309130
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372057268309130
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060559228480
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790360357644
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270198870836
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372057268309130
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372057268309130
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45397906059789063
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190826208929446500935847
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790360357644
+amount1 :
+2372057268309130
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060559228479
+ethReceived :
+2372057268309130
+tokensintoLiquidity :
+885184060559228480
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999952850432789271538753632
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+3980164937420819060374
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+168120225332648464900949
+reserve1 :
+109857441131568240726157
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+3980164937420819060374
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060578237707
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060578237707
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372035283929956
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190827094113507079173554
+reserve1 :
+512383387923577723073
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060578237707
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372035283929956
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372035283929956
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060578237707
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790341348847
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270236888860
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372035283929956
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372035283929956
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45397695472873083
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190827977531297420522401
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790341348847
+amount1 :
+2372035283929956
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060578237707
+ethReceived :
+2372035283929956
+tokensintoLiquidity :
+885184060578237707
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999946956861887930481097836
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+3710994798401068128709
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+174009669496337288146062
+reserve1 :
+106146446333167172597448
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+3710994798401068128709
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060597246719
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060597246719
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372013299958284
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190828862715358017769120
+reserve1 :
+512383387945561694745
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060597246719
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2372013299958284
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372013299958284
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060597246719
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790322340588
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270274906131
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2372013299958284
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2372013299958284
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45397484888885675
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190829746133148340109708
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790322340588
+amount1 :
+2372013299958284
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060597246719
+ethReceived :
+2372013299958284
+tokensintoLiquidity :
+885184060597246719
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999941063290986589423442040
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+3468244623821229973105
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+179899113660026111391175
+reserve1 :
+102678201709345942624343
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+3468244623821229973105
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060616255354
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060616255354
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2371991316394102
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190830631317208956365062
+reserve1 :
+512383387967545258927
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060616255354
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2371991316394102
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2371991316394102
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060616255355
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790303332618
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270312922737
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2371991316394102
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2371991316394102
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45397274307826759
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190831514734999259697680
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790303332618
+amount1 :
+2371991316394102
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060616255354
+ethReceived :
+2371991316394102
+tokensintoLiquidity :
+885184060616255355
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999935169720085248365786244
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+3248565855119485359289
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+185788557823714934636288
+reserve1 :
+99429635854226457265054
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+3248565855119485359289
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+1768601850957604578
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060635263657
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+885184060635263657
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2371969333237400
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190832399919059894961337
+reserve1 :
+512383387989528415629
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0In :
+885184060635263657
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+2371969333237400
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2371969333237400
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+885184060635263658
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+883417790284325433
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+1766270350938225
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Deposit (index_topic_1 address dst, uint256 wad)View Source
+
+Topics
+0 0xe1fffcc4923d04b559f4d29a8bfc6cda04eb5b0d3c460751c2402c5c5cc9109c
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+wad :
+2371969333237400
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Data
+wad :
+2371969333237400
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x0000000000000000000000000000000000000000
+2  0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Data
+wad :
+45397063729696293
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+190833283336850179286770
+reserve1 :
+512385759958861653029
+Address
+0xb5d85ca38a9cbe63156a02650884d92a6e736ddc
+Name
+Mint (index_topic_1 address sender, uint256 amount0, uint256 amount1)View Source
+
+Topics
+0 0x4c209b5fc8ad50758f13e2e1088ba56a560dff690a1c6fef26394f4c03821c4f
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+amount0 :
+883417790284325433
+amount1 :
+2371969333237400
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+SwapAndLiquify (uint256 tokensSwapped, uint256 ethReceived, uint256 tokensintoLiquidity)View Source
+
+Topics
+0 0x17bbfb9a6069321b6ded73bd96327c9e6b7212a5cd51ff219cd61370acafb561
+Data
+tokensSwapped :
+885184060635263657
+ethReceived :
+2371969333237400
+tokensintoLiquidity :
+885184060635263658
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0xb9b09264779733b8657b9b86970e3db74561c237
+Data
+wad :
+5889444163688823245113
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x2a479056fac97b62806cc740b11774e6598b1649
+Data
+wad :
+2357428360536423062
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x000000000000000000000000000000000000dead
+Data
+wad :
+1768071270402317296
+Address
+0x99fefbc5ca74cc740395d65d384edd52cb3088bb
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+Data
+value :
+999929276149183907308130448
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0xb9b09264779733b8657b9b86970e3db74561c237
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+wad :
+3049124193886389810521
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+191678001987403757881401
+reserve1 :
+96380511660340067454533
+Address
+0xb9b09264779733b8657b9b86970e3db74561c237
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x8b6e0aa1e9363765ea106fa42fc665c691443b63
+2  0x530b338261f8686e49403d1b5264e7a1e169f06b
+Data
+amount0In :
+5889444163688823245113
+amount1In :
+0
+amount0Out :
+0
+amount1Out :
+3049124193886389810521
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x58f876857a02d6762e0101bb5c46a8c1ed44dc16
+Data
+wad :
+56153782833091550345322
+Address
+0xe9e7cea3dedca5984780bafc599bd69add087d56
+Name
+Approval (index_topic_1 address owner, index_topic_2 address spender, uint256 value)View Source
+
+Topics
+0 0x8c5be1e5ebec7d5bd14f71427d1e84f3dd0314c0f7b2291e5b200ac8c7c3b925
+1  0x530b338261f8686e49403d1b5264e7a1e169f06b
+2  0x10ed43c718714eb63d5aa57b78b54704e256024e
+Data
+value :
+999943845217166908449654678
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Transfer (index_topic_1 address src, index_topic_2 address dst, uint256 wad)View Source
+
+Topics
+0 0xddf252ad1be2c89b69c2b068fc378daa952ba7f163c4a11628f55a4df523b3ef
+1  0x58f876857a02d6762e0101bb5c46a8c1ed44dc16
+2  0x10ed43c718714eb63d5aa57b78b54704e256024e
+Data
+wad :
+119150453562480096914
+Address
+0x58f876857a02d6762e0101bb5c46a8c1ed44dc16
+Name
+Sync (uint112 reserve0, uint112 reserve1)View Source
+
+Topics
+0 0x1c411e9a96e071241c2f21f7726b17ae89e3cab4c78be50e062b03a9fffbbad1
+Data
+reserve0 :
+408024323647737391244179
+reserve1 :
+191871025688441571459664786
+Address
+0x58f876857a02d6762e0101bb5c46a8c1ed44dc16
+Name
+Swap (index_topic_1 address sender, uint256 amount0In, uint256 amount1In, uint256 amount0Out, uint256 amount1Out, index_topic_2 address to)View Source
+
+Topics
+0 0xd78ad95fa46c994b6551d0da85fc275fe613ce37657fb8d5e3d130840159d822
+1  0x10ed43c718714eb63d5aa57b78b54704e256024e
+2  0x10ed43c718714eb63d5aa57b78b54704e256024e
+Data
+amount0In :
+0
+amount1In :
+56153782833091550345322
+amount0Out :
+119150453562480096914
+amount1Out :
+0
+Address
+0xbb4cdb9cbd36b01bd1cbaebf2de08d9173bc095c
+Name
+Withdrawal (index_topic_1 address src, uint256 wad)View Source
+
+Topics
+0 0x7fcf532c15f0a6db0bd6d0e038bea71d30d808c7d98cb3bf7268a95bf5081b65
+1  0x10ed43c718714eb63d5aa57b78b54704e256024e
+Data
+wad :
+119150453562480096914
